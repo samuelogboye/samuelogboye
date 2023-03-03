@@ -2,10 +2,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Samuel, an astute software developer in embryo 🚀</div>  
   
+<div align="center">
 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelogboye&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div
 - 🔭 I’m currently working on C programming 
   
 
