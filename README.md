@@ -2,7 +2,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=180D1D&width=435&lines=Hi+there!+so+pleased+to+meet+you;I'm+Samuel%2C+an+astute+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+stopping+by)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=180D1D&width=435&lines=Hi+there!+so+pleased+to+meet+you;I'm+Samuel%2C+an+astute+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+stopping+by)](https://git.io/typing-svg)
   
 ### <div align="center">I'm Samuel, an astute Software Engineer in embryo 🚀</div>  
   
