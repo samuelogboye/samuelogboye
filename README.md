@@ -5,7 +5,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+so+pleased+to+meet+you;I'm+Samuel%2C+an+astute+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+stopping+by)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+so+pleased+to+meet+you;I'm+Samuel%2C+an+astute+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+stopping+by)](https://git.io/typing-svg)
   
 ### <div align="center">I'm Samuel, an astute Software Engineer in embryo 🚀</div>  
   
