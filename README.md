@@ -3,11 +3,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+so+pleased+to+meet+you;I'm+Samuel%2C+an+astute+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+stopping+by)](https://git.io/typing-svg)
   
 ### <div align="center">I'm Samuel, an astute Software Engineer in embryo 🚀</div>  
   
-<div align="center">
+
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelogboye&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
