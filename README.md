@@ -123,8 +123,12 @@
 
 </div> 
 
+# Wakatime stats
+[![wakatime](https://wakatime.com/badge/user/0ef3e960-7723-45e4-bb58-05a6f081ca69.svg)](https://wakatime.com/@0ef3e960-7723-45e4-bb58-05a6f081ca69)
 
-  
+<a href="https://wakatime.com/share/@samuelogboye/0ef3e960-7723-45e4-bb58-05a6f081ca69.svg"><img style="border-radius:30; border-color: #39D353;" height="400em" src="https://wakatime.com/share/@samuelogboye/0ef3e960-7723-45e4-bb58-05a6f081ca69.svg"></a>
+
+  <figure><embed src="https://wakatime.com/share/@samuelogboye/0ef3e960-7723-45e4-bb58-05a6f081ca69.svg"></embed></figure>
 
 <br/>  
 
