@@ -6,7 +6,7 @@
 
 <div align="center">
   
-###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+so+pleased+to+meet+you;I'm+Samuel%2C+an+astute+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+stopping+by)](https://git.io/typing-svg)
+###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+so+pleased+to+meet+you;I'm+Samuel%2C+an+astute+Back-End+Engineer;Software+Engineer+With+Awesome+Aura;Thanks+for+stopping+by)](https://git.io/typing-svg)
 
   
 
@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on Backend and ML projects
   
 
-- 🌱 I’m currently learning TypeScript   
+- 🌱 I’m currently learning PHP/Laravel   
   
 
 - ❓ Ask me about anything related to Web Dev technologies
