@@ -83,7 +83,10 @@
 
 </td><td valign="top" width="33%">
 
-
+###Status
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelogboye)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 ### DevOps  
 <div align="center">  
