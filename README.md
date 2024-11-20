@@ -16,7 +16,6 @@
 </div
   
 🔭 I’m currently working on Backend and ML projects
-
 🌱 I’m currently learning PHP/Laravel   
 ❓ Ask me about anything related to Web Dev technologies
 
