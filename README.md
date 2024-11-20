@@ -14,18 +14,13 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelogboye&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div
+  
 - 🔭 I’m currently working on Backend and ML projects
-  
-
 - 🌱 I’m currently learning PHP/Laravel   
-  
-
 - ❓ Ask me about anything related to Web Dev technologies
-  
 
 - ⚡ Fun fact: Did you know that the first computer programmer was a woman named Ada Lovelace? She wrote the first algorithm designed to be processed by a machine and is often considered to be the world's first computer programmer.  
   
-
 <br/>  
 
 
